@@ -1,5 +1,10 @@
 # Bioinformatics with Python Cookbook, Second Edition
 
+[nbviewer link](https://nbviewer.jupyter.org/github/projetinho-bioinfo/Bioinformatics-with-Python-Cookbook-Second-Edition/tree/master/)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/projetinho-bioinfo/Bioinformatics-with-Python-Cookbook-Second-Edition/blob/master/)
+
+
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/bioinformatics-python-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789344691"><img src="https://www.packtpub.com/media/catalog/product/cache/4cdce5a811acc0d2926d7f857dceb83b/b/1/b11164_0.png" alt="Bioinformatics with Python Cookbook, Second Edition" height="300px" align="right"></a>
 
 This is the code repository for [Bioinformatics with Python Cookbook, Second Edition](https://india.packtpub.com/in/big-data-and-business-intelligence/bioinformatics-python-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789344691), published by Packt.
